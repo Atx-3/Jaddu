@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+wikipedia
+pyjokes
+pyaudio
+googletrans==4.0.0-rc1
+requests
